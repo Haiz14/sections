@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    /* Custom Colors */
+    --color-raisin-100: #070607;
+    --color-raisin-200: #0e0c0e;
+    --color-raisin-300: #151216;
+    --color-raisin-400: #1c181d;
+    --color-raisin-500: #221d23;
+    --color-raisin-600: #524754;
+    --color-raisin-700: #816f85;
+    --color-raisin-800: #ac9eae;
+    --color-raisin-900: #d5cfd7;
+    --color-raisin-DEFAULT: #221d23;
+
+    /* Custom Font Family */
+    --font-sans: '"Courier New"', monospace;
+}
+
